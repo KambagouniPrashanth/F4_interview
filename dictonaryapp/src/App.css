@@ -1,0 +1,24 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.2rem;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+.navbar a{
+  color: white;
+  text-decoration: none;
+}
+.userinput{
+  display: block;
+margin-left: 15rem;
+}
+.userinput input{
+  padding: 0.4rem;
+  font-size: 1.2rem;
+}
+.userinput button{
+  font-size: 1.5rem;
+  
+}
